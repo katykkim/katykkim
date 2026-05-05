@@ -14,9 +14,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 Github Stats
-[![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katykkim&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 tech stack badges - https://github.com/Ileriayo/markdown-badges
 github stats - https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
